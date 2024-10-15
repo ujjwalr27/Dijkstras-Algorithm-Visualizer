@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Dijkstra's Algorithm Visualizer
 
@@ -62,3 +63,7 @@ Contributions to this project are welcome! If you have any suggestions, improvem
 ---
 
 Feel free to make any additional changes based on your project's specific needs!
+=======
+# Dijkstras_algo_visualizer
+A map  visualizer using Dijkstra's algorithm based on Indian map .
+>>>>>>> 347c1069275b390211d3e460760a44801a2b41bd
